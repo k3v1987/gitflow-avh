@@ -1,0 +1,8 @@
+title: Gitflow
+description: Git extensions to provide high-level repository operations for Vincent Driessen's branching model, with modifications.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
